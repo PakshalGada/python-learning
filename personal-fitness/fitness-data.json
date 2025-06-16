@@ -1,0 +1,185 @@
+{
+    "workouts": [
+        {
+            "id": 3,
+            "type": "Cycling",
+            "date": "12-06-2023",
+            "duration": 120,
+            "calories": 1820.0,
+            "distance": 23,
+            "speed": 20,
+            "terrain": "Hills"
+        },
+        {
+            "id": 1,
+            "type": "Running",
+            "date": "03-06-2025",
+            "duration": 45,
+            "calories": 630.0,
+            "distance": 50,
+            "pace": 0.9,
+            "route": "Highway"
+        },
+        {
+            "id": 2,
+            "type": "Swimming",
+            "date": "03-06-2025",
+            "duration": 120,
+            "calories": 980.0,
+            "laps": 40,
+            "stroke_type": "Backstroke",
+            "pool_length": 25
+        },
+        {
+            "id": 1,
+            "type": "Running",
+            "date": "04-06-2025",
+            "duration": 45,
+            "calories": 315.0,
+            "distance": 3,
+            "pace": 15.0,
+            "route": "Park"
+        },
+        {
+            "id": 3,
+            "type": "Cycling",
+            "date": "05-06-2025",
+            "duration": 120,
+            "calories": 2520.0,
+            "distance": 25,
+            "speed": 26,
+            "terrain": "Mountains"
+        },
+        {
+            "id": 3,
+            "type": "Cycling",
+            "date": "06-06-2025",
+            "duration": 52,
+            "calories": 445,
+            "distance": 15.8,
+            "speed": 18.2,
+            "terrain": "Mixed"
+        },
+        {
+            "id": 2,
+            "type": "Swimming",
+            "date": "08-06-2025",
+            "duration": 45,
+            "calories": 398,
+            "laps": 40,
+            "stroke_type": "Freestyle",
+            "pool_length": 25
+        },
+        {
+            "id": 1,
+            "type": "Running",
+            "date": "09-06-2025",
+            "duration": 28,
+            "calories": 312,
+            "distance": 5.2,
+            "pace": "5:23",
+            "route": "Park Loop"
+        },
+        {
+            "id": 1,
+            "type": "Running",
+            "date": "10-06-2025",
+            "duration": 1,
+            "calories": 14.0,
+            "distance": 1,
+            "pace": 1.0,
+            "route": "Park"
+        },
+        {
+            "id": 2,
+            "type": "Swimming",
+            "date": "10-06-2025",
+            "duration": 45,
+            "calories": 420.0,
+            "laps": 25,
+            "stroke_type": "Freestyle",
+            "pool_length": 25
+        },
+        {
+            "id": 1,
+            "type": "Running",
+            "date": "11-06-2025",
+            "duration": 60,
+            "calories": 840.0,
+            "distance": 25,
+            "pace": 2.4,
+            "route": "Park"
+        },
+        {
+            "id": 3,
+            "type": "Cycling",
+            "date": "11-06-2025",
+            "duration": 120,
+            "calories": 2520.0,
+            "distance": 15,
+            "speed": 30,
+            "terrain": "Mountains"
+        },
+        {
+            "id": 1,
+            "type": "Running",
+            "date": "12-06-2025",
+            "duration": 120,
+            "calories": 840.0,
+            "distance": 10,
+            "pace": 12.0,
+            "route": "Park"
+        },
+        {
+            "id": 2,
+            "type": "Swimming",
+            "date": "12-06-2025",
+            "duration": 120,
+            "calories": 980.0,
+            "laps": 45,
+            "stroke_type": "Backstroke",
+            "pool_length": 25
+        },
+        {
+            "id": 1,
+            "type": "Running",
+            "date": "12-06-2025",
+            "duration": 120,
+            "calories": 840.0,
+            "distance": 12,
+            "pace": 10.0,
+            "route": "Park"
+        },
+        {
+            "id": 1,
+            "type": "Running",
+            "date": "14-06-2025",
+            "duration": 120,
+            "calories": 840.0,
+            "distance": 20,
+            "pace": 6.0,
+            "route": "Park"
+        },
+        {
+            "id": 2,
+            "type": "Swimming",
+            "date": "14-06-2025",
+            "duration": 120,
+            "calories": 1120.0,
+            "laps": 30,
+            "stroke_type": "Mixed Strokes",
+            "pool_length": 25
+        },
+        {
+            "id": 1,
+            "type": "Running",
+            "date": "15-06-2025",
+            "duration": 120,
+            "calories": 840.0,
+            "distance": 4,
+            "pace": 30.0,
+            "route": "Park"
+        }
+    ],
+    "goals": {}
+}
