@@ -1,0 +1,1761 @@
+{
+    "1": {
+        "name": "Pakshal Gada",
+        "date_joined": "16-06-2025",
+        "favourite_movies": [
+            {
+                "title": "The Avengers",
+                "year": "2012",
+                "runtime": "143 min",
+                "genre": [
+                    "Action",
+                    " Sci-Fi"
+                ],
+                "rating": "8.0",
+                "imdb_id": "tt0848228"
+            },
+            {
+                "title": "Avengers: Endgame",
+                "year": "2019",
+                "runtime": "181 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Sci-Fi"
+                ],
+                "rating": "8.4",
+                "imdb_id": "tt4154796"
+            },
+            {
+                "title": "Avengers: Infinity War",
+                "year": "2018",
+                "runtime": "149 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Sci-Fi"
+                ],
+                "rating": "8.4",
+                "imdb_id": "tt4154756"
+            },
+            {
+                "title": "Attack on Titan the Movie: The Last Attack",
+                "year": "2024",
+                "runtime": "145 min",
+                "genre": [
+                    "Animation",
+                    " Action",
+                    " Adventure"
+                ],
+                "rating": "9.3",
+                "imdb_id": "tt33175825"
+            },
+            {
+                "title": "Batman Begins",
+                "year": "2005",
+                "runtime": "140 min",
+                "genre": [
+                    "Action",
+                    " Crime",
+                    " Drama"
+                ],
+                "rating": "8.2",
+                "imdb_id": "tt0372784"
+            },
+            {
+                "title": "The Batman",
+                "year": "2022",
+                "runtime": "176 min",
+                "genre": [
+                    "Action",
+                    " Crime",
+                    " Drama"
+                ],
+                "rating": "7.8",
+                "imdb_id": "tt1877830"
+            },
+            {
+                "title": "Interstellar",
+                "year": "2014",
+                "runtime": "169 min",
+                "genre": [
+                    "Adventure",
+                    " Drama",
+                    " Sci-Fi"
+                ],
+                "rating": "8.7",
+                "imdb_id": "tt0816692"
+            },
+            {
+                "title": "Inception",
+                "year": "2010",
+                "runtime": "148 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Sci-Fi"
+                ],
+                "rating": "8.8",
+                "imdb_id": "tt1375666"
+            },
+            {
+                "title": "Baahubali: The Beginning",
+                "year": "2015",
+                "runtime": "159 min",
+                "genre": [
+                    "Action",
+                    " Drama"
+                ],
+                "rating": "8.0",
+                "imdb_id": "tt2631186"
+            },
+            {
+                "title": "Baahubali 2: The Conclusion",
+                "year": "2017",
+                "runtime": "167 min",
+                "genre": [
+                    "Action",
+                    " Drama"
+                ],
+                "rating": "8.2",
+                "imdb_id": "tt4849438"
+            },
+            {
+                "title": "Tamia - The First Battle Gen movie",
+                "year": "2024",
+                "runtime": "N/A",
+                "genre": [
+                    "Short",
+                    " Sci-Fi"
+                ],
+                "rating": "8.1",
+                "imdb_id": "tt27588229"
+            },
+            {
+                "title": "Glenn Fredly: The Movie",
+                "year": "2024",
+                "runtime": "121 min",
+                "genre": [
+                    "Biography",
+                    " Drama",
+                    " Music"
+                ],
+                "rating": "7.7",
+                "imdb_id": "tt31024893"
+            },
+            {
+                "title": "Ultraman Blazar the Movie: Tokyo Kaiju Showdown",
+                "year": "2024",
+                "runtime": "75 min",
+                "genre": [
+                    "Action"
+                ],
+                "rating": "7.7",
+                "imdb_id": "tt30107378"
+            },
+            {
+                "title": "Grainne Uaile: The Movie",
+                "year": "2024",
+                "runtime": "270 min",
+                "genre": [
+                    "Action"
+                ],
+                "rating": "7.4",
+                "imdb_id": "tt2766800"
+            },
+            {
+                "title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+                "year": "2024",
+                "runtime": "91 min",
+                "genre": [
+                    "Animation",
+                    " Adventure",
+                    " Comedy"
+                ],
+                "rating": "6.9",
+                "imdb_id": "tt15352542"
+            },
+            {
+                "title": "The Lego Movie",
+                "year": "2014",
+                "runtime": "100 min",
+                "genre": [
+                    "Animation",
+                    " Action",
+                    " Adventure"
+                ],
+                "rating": "7.7",
+                "imdb_id": "tt1490017"
+            },
+            {
+                "title": "The Muppet Movie",
+                "year": "1979",
+                "runtime": "95 min",
+                "genre": [
+                    "Adventure",
+                    " Comedy",
+                    " Family"
+                ],
+                "rating": "7.6",
+                "imdb_id": "tt0079588"
+            },
+            {
+                "title": "Die Hard",
+                "year": "1988",
+                "runtime": "132 min",
+                "genre": [
+                    "Action",
+                    " Thriller"
+                ],
+                "rating": "8.2",
+                "imdb_id": "tt0095016"
+            },
+            {
+                "title": "Mad Max: Fury Road",
+                "year": "2015",
+                "runtime": "120 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Sci-Fi"
+                ],
+                "rating": "8.1",
+                "imdb_id": "tt1392190"
+            },
+            {
+                "title": "Furiosa: A Mad Max Saga",
+                "year": "2024",
+                "runtime": "148 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Sci-Fi"
+                ],
+                "rating": "7.5",
+                "imdb_id": "tt12037194"
+            },
+            {
+                "title": "Mad Max",
+                "year": "1979",
+                "runtime": "88 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Sci-Fi"
+                ],
+                "rating": "6.8",
+                "imdb_id": "tt0079501"
+            },
+            {
+                "title": "Transformers: Dark of the Moon",
+                "year": "2011",
+                "runtime": "154 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Comedy"
+                ],
+                "rating": "6.2",
+                "imdb_id": "tt1399103"
+            },
+            {
+                "title": "Titanic",
+                "year": "1997",
+                "runtime": "194 min",
+                "genre": [
+                    "Drama",
+                    " Romance"
+                ],
+                "rating": "7.9",
+                "imdb_id": "tt0120338"
+            }
+        ],
+        "favourite_music": [
+            {
+                "artist": "Jasleen Royal",
+                "title": "Heeriye (feat. Arijit Singh)",
+                "duration": "3:14",
+                "album": "Heeriye (feat. Arijit Singh)",
+                "listeners": "40,925"
+            },
+            {
+                "artist": "Arijit Singh",
+                "title": "Zaalima",
+                "duration": "4:59",
+                "album": "Collection",
+                "listeners": "42,527"
+            },
+            {
+                "artist": "Arijit Singh",
+                "title": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+                "duration": "4:44",
+                "album": "Celebrating World Music Day 2021 - Music Dil Se Dil Tak",
+                "listeners": "40,641"
+            },
+            {
+                "artist": "Coldplay",
+                "title": "My Universe",
+                "duration": "3:46",
+                "album": "Music Of The Spheres (Autographed CD)",
+                "listeners": "699,388"
+            },
+            {
+                "artist": "Coldplay",
+                "title": "Sparks",
+                "duration": "3:47",
+                "album": "Parachutes",
+                "listeners": "1,967,360"
+            },
+            {
+                "artist": "Coldplay",
+                "title": "Yellow",
+                "duration": "4:29",
+                "album": "Parachutes",
+                "listeners": "3,007,273"
+            },
+            {
+                "artist": "Pritam",
+                "title": "Tum Se Hi",
+                "duration": "5:21",
+                "album": "Jab We Met",
+                "listeners": "67,013"
+            },
+            {
+                "artist": "Pritam",
+                "title": "Kabira",
+                "duration": "5:11",
+                "album": "Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack)",
+                "listeners": "54,157"
+            },
+            {
+                "artist": "Pritam",
+                "title": "Subhanallah",
+                "duration": "4:9",
+                "album": "Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack)",
+                "listeners": "44,385"
+            },
+            {
+                "artist": "Atif Aslam",
+                "title": "Main Rang Sharbaton Ka",
+                "duration": "0:0",
+                "album": "Atif Aslam",
+                "listeners": "32,890"
+            },
+            {
+                "artist": "Imagine Dragons",
+                "title": "It's Time",
+                "duration": "4:0",
+                "album": "Night Visions",
+                "listeners": "1,040,549"
+            },
+            {
+                "artist": "Keane",
+                "title": "Nothing in My Way",
+                "duration": "4:0",
+                "album": "Under the Iron Sea",
+                "listeners": "481,073"
+            },
+            {
+                "artist": "Pritam",
+                "title": "Subhanallah",
+                "duration": "4:9",
+                "album": "Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack)",
+                "listeners": "44,413"
+            },
+            {
+                "artist": "Atif Aslam",
+                "title": "Main Rang Sharbaton Ka",
+                "duration": "0:0",
+                "album": "Atif Aslam",
+                "listeners": "32,890"
+            },
+            {
+                "artist": "Arijit Singh",
+                "title": "Mast Magan (From \"2 States\")",
+                "duration": "4:40",
+                "album": "Best of Arijit Singh - Revisited",
+                "listeners": "32,677"
+            },
+            {
+                "artist": "Keane",
+                "title": "Somewhere Only We Know",
+                "duration": "3:56",
+                "album": "Hopes and Fears",
+                "listeners": "2,092,811"
+            },
+            {
+                "artist": "Imagine Dragons",
+                "title": "Radioactive",
+                "duration": "3:07",
+                "album": "Night Visions",
+                "listeners": "1,804,841"
+            },
+            {
+                "artist": "OneRepublic",
+                "title": "Counting Stars",
+                "duration": "4:16",
+                "album": "Native",
+                "listeners": "1,732,734"
+            }
+        ],
+        "recommends": {
+            "movies": [
+                {
+                    "title": "The Lego Movie",
+                    "year": "2014",
+                    "runtime": "100 min",
+                    "genre": [
+                        "Animation",
+                        " Action",
+                        " Adventure"
+                    ],
+                    "rating": "7.7",
+                    "imdb_id": "tt1490017"
+                },
+                {
+                    "title": "The Muppet Movie",
+                    "year": "1979",
+                    "runtime": "95 min",
+                    "genre": [
+                        "Adventure",
+                        " Comedy",
+                        " Family"
+                    ],
+                    "rating": "7.6",
+                    "imdb_id": "tt0079588"
+                }
+            ],
+            "musics": [
+                {
+                    "artist": "Keane",
+                    "title": "Somewhere Only We Know",
+                    "duration": "3:56",
+                    "album": "Hopes and Fears",
+                    "listeners": "2,092,811"
+                },
+                {
+                    "artist": "Imagine Dragons",
+                    "title": "Radioactive",
+                    "duration": "3:07",
+                    "album": "Night Visions",
+                    "listeners": "1,804,841"
+                },
+                {
+                    "artist": "OneRepublic",
+                    "title": "Counting Stars",
+                    "duration": "4:16",
+                    "album": "Native",
+                    "listeners": "1,732,734"
+                }
+            ]
+        },
+        "preffered_genres": [
+            "Action",
+            "Animation",
+            "Biography",
+            "Adventure",
+            "Thriller",
+            "Music",
+            "Sci-Fi",
+            "Short",
+            "Drama",
+            "Crime",
+            "Family",
+            "Comedy",
+            "Romance"
+        ],
+        "similar_users": [
+            {
+                "profile": "john_doe_7874",
+                "similarity": 69.23076923076923,
+                "common_genres": [
+                    "Adventure",
+                    "Drama",
+                    "Animation",
+                    "Romance",
+                    "Action",
+                    "Music",
+                    "Family",
+                    "Sci-Fi",
+                    "Comedy"
+                ],
+                "unique_genres": [
+                    "None"
+                ]
+            },
+            {
+                "profile": "carol_davis_1504",
+                "similarity": 69.23076923076923,
+                "common_genres": [
+                    "Adventure",
+                    "Drama",
+                    "Animation",
+                    "Romance",
+                    "Action",
+                    "Crime",
+                    "Family",
+                    "Sci-Fi",
+                    "Comedy"
+                ],
+                "unique_genres": [
+                    "None"
+                ]
+            },
+            {
+                "profile": "antony_ellison_4843",
+                "similarity": 50.0,
+                "common_genres": [
+                    "Drama",
+                    "Adventure",
+                    "Animation",
+                    "Action",
+                    "Crime",
+                    "Family",
+                    "Comedy"
+                ],
+                "unique_genres": [
+                    "Fantasy"
+                ]
+            }
+        ]
+    },
+    "john_doe_7874": {
+        "name": "John Doe",
+        "date_joined": "20-06-2025",
+        "favourite_movies": [
+            {
+                "title": "Titanic",
+                "year": "1997",
+                "runtime": "194 min",
+                "genre": [
+                    "Drama",
+                    " Romance"
+                ],
+                "rating": "7.9",
+                "imdb_id": "tt0120338"
+            },
+            {
+                "title": "La La Land",
+                "year": "2016",
+                "runtime": "128 min",
+                "genre": [
+                    "Comedy",
+                    " Drama",
+                    " Music"
+                ],
+                "rating": "8.0",
+                "imdb_id": "tt3783958"
+            },
+            {
+                "title": "Transformers",
+                "year": "2007",
+                "runtime": "144 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Sci-Fi"
+                ],
+                "rating": "7.1",
+                "imdb_id": "tt0418279"
+            },
+            {
+                "title": "Transformers: Dark of the Moon",
+                "year": "2011",
+                "runtime": "154 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Comedy"
+                ],
+                "rating": "6.2",
+                "imdb_id": "tt1399103"
+            },
+            {
+                "title": "Transformers: Revenge of the Fallen",
+                "year": "2009",
+                "runtime": "149 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Sci-Fi"
+                ],
+                "rating": "6.0",
+                "imdb_id": "tt1055369"
+            },
+            {
+                "title": "Spy Kids",
+                "year": "2001",
+                "runtime": "88 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Comedy"
+                ],
+                "rating": "5.6",
+                "imdb_id": "tt0227538"
+            },
+            {
+                "title": "Spy Kids 2: Island of Lost Dreams",
+                "year": "2002",
+                "runtime": "100 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Comedy"
+                ],
+                "rating": "5.3",
+                "imdb_id": "tt0287717"
+            },
+            {
+                "title": "Spy Kids 3: Game Over",
+                "year": "2003",
+                "runtime": "84 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Comedy"
+                ],
+                "rating": "4.4",
+                "imdb_id": "tt0338459"
+            },
+            {
+                "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+                "year": "2020",
+                "runtime": "117 min",
+                "genre": [
+                    "Animation",
+                    " Action",
+                    " Adventure"
+                ],
+                "rating": "8.2",
+                "imdb_id": "tt11032374"
+            },
+            {
+                "title": "A Silent Voice: The Movie",
+                "year": "2016",
+                "runtime": "130 min",
+                "genre": [
+                    "Animation",
+                    " Drama"
+                ],
+                "rating": "8.1",
+                "imdb_id": "tt5323662"
+            },
+            {
+                "title": "The Lego Movie",
+                "year": "2014",
+                "runtime": "100 min",
+                "genre": [
+                    "Animation",
+                    " Action",
+                    " Adventure"
+                ],
+                "rating": "7.7",
+                "imdb_id": "tt1490017"
+            },
+            {
+                "title": "The Muppet Movie",
+                "year": "1979",
+                "runtime": "95 min",
+                "genre": [
+                    "Adventure",
+                    " Comedy",
+                    " Family"
+                ],
+                "rating": "7.6",
+                "imdb_id": "tt0079588"
+            }
+        ],
+        "favourite_music": [
+            {
+                "artist": "Baby Keem",
+                "title": "Family Ties (with Kendrick Lamar)",
+                "duration": "0:0",
+                "album": "N/A",
+                "listeners": "1,114,400"
+            },
+            {
+                "artist": "Kendrick Lamar",
+                "title": "Money Trees",
+                "duration": "4:15",
+                "album": "good kid, m.A.A.d city",
+                "listeners": "1,800,963"
+            },
+            {
+                "artist": "Kendrick Lamar",
+                "title": "PRIDE.",
+                "duration": "5:14",
+                "album": "DAMN. COLLECTORS EDITION.",
+                "listeners": "1,539,011"
+            },
+            {
+                "artist": "Travis Scott",
+                "title": "MELTDOWN (feat. Drake)",
+                "duration": "4:6",
+                "album": "UTOPIA (Spotfiy)",
+                "listeners": "641,637"
+            },
+            {
+                "artist": "Drake",
+                "title": "Passionfruit",
+                "duration": "4:4",
+                "album": "More Life",
+                "listeners": "1,297,016"
+            },
+            {
+                "artist": "Gunna",
+                "title": "P power (feat. Drake)",
+                "duration": "3:13",
+                "album": "DRIP SEASON 4EVER",
+                "listeners": "478,955"
+            },
+            {
+                "artist": "The Weeknd",
+                "title": "The Abyss (feat. Lana Del Ray)",
+                "duration": "0:0",
+                "album": "N/A",
+                "listeners": "61,057"
+            },
+            {
+                "artist": "YUNG BEEF",
+                "title": "Lana del Ray",
+                "duration": "0:0",
+                "album": "N/A",
+                "listeners": "4,339"
+            },
+            {
+                "artist": "Sero",
+                "title": "Lana Del Ray",
+                "duration": "2:15",
+                "album": "N/A",
+                "listeners": "1,483"
+            },
+            {
+                "artist": "Tyler, the Creator",
+                "title": "See You Again (feat. Kali Uchis)",
+                "duration": "0:00",
+                "album": "N/A",
+                "listeners": "2,117,532"
+            },
+            {
+                "artist": "Kendrick Lamar",
+                "title": "HUMBLE.",
+                "duration": "2:53",
+                "album": "DAMN.",
+                "listeners": "1,961,833"
+            },
+            {
+                "artist": "Kendrick Lamar",
+                "title": "Money Trees",
+                "duration": "4:15",
+                "album": "good kid, m.A.A.d city",
+                "listeners": "1,800,963"
+            },
+            {
+                "artist": "Tyler, the Creator",
+                "title": "Earfquake",
+                "duration": "0:00",
+                "album": "N/A",
+                "listeners": "1,781,269"
+            },
+            {
+                "artist": "Kendrick Lamar",
+                "title": "All The Stars (with SZA)",
+                "duration": "0:00",
+                "album": "N/A",
+                "listeners": "1,752,666"
+            }
+        ],
+        "preffered_genres": [
+            "Comedy",
+            "Family",
+            "Adventure",
+            "Romance",
+            "Drama",
+            "Music",
+            "Animation",
+            "Sci-Fi",
+            "Action"
+        ],
+        "recommends": {
+            "movies": [
+                {
+                    "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+                    "year": "2020",
+                    "runtime": "117 min",
+                    "genre": [
+                        "Animation",
+                        " Action",
+                        " Adventure"
+                    ],
+                    "rating": "8.2",
+                    "imdb_id": "tt11032374"
+                },
+                {
+                    "title": "A Silent Voice: The Movie",
+                    "year": "2016",
+                    "runtime": "130 min",
+                    "genre": [
+                        "Animation",
+                        " Drama"
+                    ],
+                    "rating": "8.1",
+                    "imdb_id": "tt5323662"
+                },
+                {
+                    "title": "The Lego Movie",
+                    "year": "2014",
+                    "runtime": "100 min",
+                    "genre": [
+                        "Animation",
+                        " Action",
+                        " Adventure"
+                    ],
+                    "rating": "7.7",
+                    "imdb_id": "tt1490017"
+                },
+                {
+                    "title": "The Muppet Movie",
+                    "year": "1979",
+                    "runtime": "95 min",
+                    "genre": [
+                        "Adventure",
+                        " Comedy",
+                        " Family"
+                    ],
+                    "rating": "7.6",
+                    "imdb_id": "tt0079588"
+                }
+            ],
+            "musics": [
+                {
+                    "artist": "Tyler, the Creator",
+                    "title": "See You Again (feat. Kali Uchis)",
+                    "duration": "0:00",
+                    "album": "N/A",
+                    "listeners": "2,117,532"
+                },
+                {
+                    "artist": "Kendrick Lamar",
+                    "title": "HUMBLE.",
+                    "duration": "2:53",
+                    "album": "DAMN.",
+                    "listeners": "1,961,833"
+                },
+                {
+                    "artist": "Kendrick Lamar",
+                    "title": "Money Trees",
+                    "duration": "4:15",
+                    "album": "good kid, m.A.A.d city",
+                    "listeners": "1,800,963"
+                },
+                {
+                    "artist": "Tyler, the Creator",
+                    "title": "Earfquake",
+                    "duration": "0:00",
+                    "album": "N/A",
+                    "listeners": "1,781,269"
+                },
+                {
+                    "artist": "Kendrick Lamar",
+                    "title": "All The Stars (with SZA)",
+                    "duration": "0:00",
+                    "album": "N/A",
+                    "listeners": "1,752,666"
+                }
+            ]
+        },
+        "similar_users": []
+    },
+    "bob_smith_3581": {
+        "name": "Bob Smith",
+        "date_joined": "20-06-2025",
+        "favourite_movies": [
+            {
+                "title": "The Conjuring",
+                "year": "2013",
+                "runtime": "112 min",
+                "genre": [
+                    "Horror",
+                    " Mystery",
+                    " Thriller"
+                ],
+                "rating": "7.5",
+                "imdb_id": "tt1457767"
+            },
+            {
+                "title": "The Conjuring 2",
+                "year": "2016",
+                "runtime": "134 min",
+                "genre": [
+                    "Horror",
+                    " Mystery",
+                    " Thriller"
+                ],
+                "rating": "7.3",
+                "imdb_id": "tt3065204"
+            },
+            {
+                "title": "The Conjuring: The Devil Made Me Do It",
+                "year": "2021",
+                "runtime": "112 min",
+                "genre": [
+                    "Horror",
+                    " Mystery",
+                    " Thriller"
+                ],
+                "rating": "6.3",
+                "imdb_id": "tt7069210"
+            },
+            {
+                "title": "Final Destination",
+                "year": "2000",
+                "runtime": "98 min",
+                "genre": [
+                    "Horror",
+                    " Thriller"
+                ],
+                "rating": "6.7",
+                "imdb_id": "tt0195714"
+            },
+            {
+                "title": "Final Destination 2",
+                "year": "2003",
+                "runtime": "90 min",
+                "genre": [
+                    "Horror",
+                    " Thriller"
+                ],
+                "rating": "6.2",
+                "imdb_id": "tt0309593"
+            },
+            {
+                "title": "Final Destination 3",
+                "year": "2006",
+                "runtime": "93 min",
+                "genre": [
+                    "Horror",
+                    " Thriller"
+                ],
+                "rating": "5.8",
+                "imdb_id": "tt0414982"
+            },
+            {
+                "title": "Twilight Zone: The Movie",
+                "year": "1983",
+                "runtime": "101 min",
+                "genre": [
+                    "Horror",
+                    " Sci-Fi"
+                ],
+                "rating": "6.4",
+                "imdb_id": "tt0086491"
+            },
+            {
+                "title": "Interstellar",
+                "year": "2014",
+                "runtime": "169 min",
+                "genre": [
+                    "Adventure",
+                    " Drama",
+                    " Sci-Fi"
+                ],
+                "rating": "8.7",
+                "imdb_id": "tt0816692"
+            },
+            {
+                "title": "Sherlock Holmes",
+                "year": "2009",
+                "runtime": "128 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Mystery"
+                ],
+                "rating": "7.6",
+                "imdb_id": "tt0988045"
+            },
+            {
+                "title": "Sherlock Holmes: A Game of Shadows",
+                "year": "2011",
+                "runtime": "129 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Mystery"
+                ],
+                "rating": "7.4",
+                "imdb_id": "tt1515091"
+            },
+            {
+                "title": "A Silent Voice: The Movie",
+                "year": "2016",
+                "runtime": "130 min",
+                "genre": [
+                    "Animation",
+                    " Drama"
+                ],
+                "rating": "8.1",
+                "imdb_id": "tt5323662"
+            },
+            {
+                "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+                "year": "2020",
+                "runtime": "117 min",
+                "genre": [
+                    "Animation",
+                    " Action",
+                    " Adventure"
+                ],
+                "rating": "8.2",
+                "imdb_id": "tt11032374"
+            },
+            {
+                "title": "Cowboy Bebop: The Movie",
+                "year": "2001",
+                "runtime": "115 min",
+                "genre": [
+                    "Animation",
+                    " Action",
+                    " Crime"
+                ],
+                "rating": "7.8",
+                "imdb_id": "tt0275277"
+            }
+        ],
+        "favourite_music": [
+            {
+                "artist": "Taylor Swift",
+                "title": "Wildest Dreams (Taylor's Version)",
+                "duration": "3:40",
+                "album": "1989 (Taylor's Version)",
+                "listeners": "985,145"
+            },
+            {
+                "artist": "Taylor Swift",
+                "title": "\"Slut!\" (Taylor's Version) (From The Vault)",
+                "duration": "0:0",
+                "album": "N/A",
+                "listeners": "592,824"
+            },
+            {
+                "artist": "Taylor Swift",
+                "title": "Cruel Summer",
+                "duration": "3:45",
+                "album": "Lover",
+                "listeners": "1,460,637"
+            },
+            {
+                "artist": "The Weeknd",
+                "title": "The Abyss (feat. Lana Del Ray)",
+                "duration": "0:0",
+                "album": "N/A",
+                "listeners": "61,057"
+            },
+            {
+                "artist": "YUNG BEEF",
+                "title": "Lana del Ray",
+                "duration": "0:0",
+                "album": "N/A",
+                "listeners": "4,339"
+            },
+            {
+                "artist": "Sero",
+                "title": "Lana Del Ray",
+                "duration": "2:15",
+                "album": "N/A",
+                "listeners": "1,483"
+            },
+            {
+                "artist": "Olivia Rodrigo",
+                "title": "good 4 u",
+                "duration": "2:58",
+                "album": "Best of Today",
+                "listeners": "1,538,272"
+            },
+            {
+                "artist": "Olivia Rodrigo",
+                "title": "deja vu",
+                "duration": "3:35",
+                "album": "Now That's What I Call Music, Vol. 79",
+                "listeners": "1,370,485"
+            },
+            {
+                "artist": "Olivia Rodrigo",
+                "title": "drivers license",
+                "duration": "4:02",
+                "album": "Good Songs",
+                "listeners": "1,355,766"
+            }
+        ],
+        "preffered_genres": [
+            "Adventure",
+            "Sci-Fi",
+            "Drama",
+            "Mystery",
+            "Thriller",
+            "Horror",
+            "Animation",
+            "Action",
+            "Crime"
+        ],
+        "recommends": {
+            "movies": [
+                {
+                    "title": "Twilight Zone: The Movie",
+                    "year": "1983",
+                    "runtime": "101 min",
+                    "genre": [
+                        "Horror",
+                        " Sci-Fi"
+                    ],
+                    "rating": "6.4",
+                    "imdb_id": "tt0086491"
+                },
+                {
+                    "title": "A Silent Voice: The Movie",
+                    "year": "2016",
+                    "runtime": "130 min",
+                    "genre": [
+                        "Animation",
+                        " Drama"
+                    ],
+                    "rating": "8.1",
+                    "imdb_id": "tt5323662"
+                },
+                {
+                    "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+                    "year": "2020",
+                    "runtime": "117 min",
+                    "genre": [
+                        "Animation",
+                        " Action",
+                        " Adventure"
+                    ],
+                    "rating": "8.2",
+                    "imdb_id": "tt11032374"
+                },
+                {
+                    "title": "Cowboy Bebop: The Movie",
+                    "year": "2001",
+                    "runtime": "115 min",
+                    "genre": [
+                        "Animation",
+                        " Action",
+                        " Crime"
+                    ],
+                    "rating": "7.8",
+                    "imdb_id": "tt0275277"
+                }
+            ],
+            "musics": [
+                {
+                    "artist": "Olivia Rodrigo",
+                    "title": "good 4 u",
+                    "duration": "2:58",
+                    "album": "Best of Today",
+                    "listeners": "1,538,272"
+                },
+                {
+                    "artist": "Olivia Rodrigo",
+                    "title": "deja vu",
+                    "duration": "3:35",
+                    "album": "Now That's What I Call Music, Vol. 79",
+                    "listeners": "1,370,485"
+                },
+                {
+                    "artist": "Olivia Rodrigo",
+                    "title": "drivers license",
+                    "duration": "4:02",
+                    "album": "Good Songs",
+                    "listeners": "1,355,766"
+                }
+            ]
+        },
+        "similar_users": []
+    },
+    "carol_davis_1504": {
+        "name": "Carol Davis",
+        "date_joined": "20-06-2025",
+        "favourite_movies": [
+            {
+                "title": "Transformers",
+                "year": "2007",
+                "runtime": "144 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Sci-Fi"
+                ],
+                "rating": "7.1",
+                "imdb_id": "tt0418279"
+            },
+            {
+                "title": "Transformers: Dark of the Moon",
+                "year": "2011",
+                "runtime": "154 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Comedy"
+                ],
+                "rating": "6.2",
+                "imdb_id": "tt1399103"
+            },
+            {
+                "title": "Transformers: Revenge of the Fallen",
+                "year": "2009",
+                "runtime": "149 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Sci-Fi"
+                ],
+                "rating": "6.0",
+                "imdb_id": "tt1055369"
+            },
+            {
+                "title": "Baahubali: The Beginning",
+                "year": "2015",
+                "runtime": "159 min",
+                "genre": [
+                    "Action",
+                    " Drama"
+                ],
+                "rating": "8.0",
+                "imdb_id": "tt2631186"
+            },
+            {
+                "title": "Baahubali 2: The Conclusion",
+                "year": "2017",
+                "runtime": "167 min",
+                "genre": [
+                    "Action",
+                    " Drama"
+                ],
+                "rating": "8.2",
+                "imdb_id": "tt4849438"
+            },
+            {
+                "title": "Attack on Titan the Movie: The Last Attack",
+                "year": "2024",
+                "runtime": "145 min",
+                "genre": [
+                    "Animation",
+                    " Action",
+                    " Adventure"
+                ],
+                "rating": "9.3",
+                "imdb_id": "tt33175825"
+            },
+            {
+                "title": "Titanic",
+                "year": "1997",
+                "runtime": "194 min",
+                "genre": [
+                    "Drama",
+                    " Romance"
+                ],
+                "rating": "7.9",
+                "imdb_id": "tt0120338"
+            },
+            {
+                "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+                "year": "2020",
+                "runtime": "117 min",
+                "genre": [
+                    "Animation",
+                    " Action",
+                    " Adventure"
+                ],
+                "rating": "8.2",
+                "imdb_id": "tt11032374"
+            },
+            {
+                "title": "A Silent Voice: The Movie",
+                "year": "2016",
+                "runtime": "130 min",
+                "genre": [
+                    "Animation",
+                    " Drama"
+                ],
+                "rating": "8.1",
+                "imdb_id": "tt5323662"
+            },
+            {
+                "title": "Cowboy Bebop: The Movie",
+                "year": "2001",
+                "runtime": "115 min",
+                "genre": [
+                    "Animation",
+                    " Action",
+                    " Crime"
+                ],
+                "rating": "7.8",
+                "imdb_id": "tt0275277"
+            },
+            {
+                "title": "The Lego Movie",
+                "year": "2014",
+                "runtime": "100 min",
+                "genre": [
+                    "Animation",
+                    " Action",
+                    " Adventure"
+                ],
+                "rating": "7.7",
+                "imdb_id": "tt1490017"
+            },
+            {
+                "title": "The Muppet Movie",
+                "year": "1979",
+                "runtime": "95 min",
+                "genre": [
+                    "Adventure",
+                    " Comedy",
+                    " Family"
+                ],
+                "rating": "7.6",
+                "imdb_id": "tt0079588"
+            },
+            {
+                "title": "Shaun the Sheep Movie",
+                "year": "2015",
+                "runtime": "85 min",
+                "genre": [
+                    "Animation",
+                    " Adventure",
+                    " Comedy"
+                ],
+                "rating": "7.3",
+                "imdb_id": "tt2872750"
+            }
+        ],
+        "favourite_music": [
+            {
+                "artist": "Jasleen Royal",
+                "title": "Heeriye (feat. Arijit Singh)",
+                "duration": "3:14",
+                "album": "Heeriye (feat. Arijit Singh)",
+                "listeners": "40,978"
+            },
+            {
+                "artist": "Arijit Singh",
+                "title": "Zaalima",
+                "duration": "4:59",
+                "album": "Collection",
+                "listeners": "42,627"
+            },
+            {
+                "artist": "Arijit Singh",
+                "title": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+                "duration": "4:44",
+                "album": "Celebrating World Music Day 2021 - Music Dil Se Dil Tak",
+                "listeners": "40,735"
+            },
+            {
+                "artist": "Pritam",
+                "title": "Tum Se Hi",
+                "duration": "5:21",
+                "album": "Jab We Met",
+                "listeners": "67,075"
+            },
+            {
+                "artist": "Pritam",
+                "title": "Kabira",
+                "duration": "5:11",
+                "album": "Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack)",
+                "listeners": "54,233"
+            },
+            {
+                "artist": "Pritam",
+                "title": "Subhanallah",
+                "duration": "4:9",
+                "album": "Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack)",
+                "listeners": "44,435"
+            },
+            {
+                "artist": "Atif Aslam",
+                "title": "Tera Hone Laga Hoon",
+                "duration": "0:00",
+                "album": "Best of Atif Aslam",
+                "listeners": "55,267"
+            },
+            {
+                "artist": "Atif Aslam",
+                "title": "Tu Jaane Na",
+                "duration": "0:00",
+                "album": "Best of Atif Aslam",
+                "listeners": "52,858"
+            },
+            {
+                "artist": "Atif Aslam",
+                "title": "Pehli Nazar Mein",
+                "duration": "0:00",
+                "album": "Best of Atif Aslam",
+                "listeners": "47,486"
+            },
+            {
+                "artist": "Shankar-Ehsaan-Loy",
+                "title": "Kal Ho Naa Ho",
+                "duration": "5:21",
+                "album": "Kal Ho Naa Ho",
+                "listeners": "44,909"
+            },
+            {
+                "artist": "Vishal-Shekhar",
+                "title": "Khuda Jaane",
+                "duration": "0:00",
+                "album": "N/A",
+                "listeners": "44,829"
+            }
+        ],
+        "preffered_genres": [
+            "Adventure",
+            "Romance",
+            "Family",
+            "Action",
+            "Drama",
+            "Sci-Fi",
+            "Crime",
+            "Animation",
+            "Comedy"
+        ],
+        "recommends": {
+            "movies": [
+                {
+                    "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+                    "year": "2020",
+                    "runtime": "117 min",
+                    "genre": [
+                        "Animation",
+                        " Action",
+                        " Adventure"
+                    ],
+                    "rating": "8.2",
+                    "imdb_id": "tt11032374"
+                },
+                {
+                    "title": "A Silent Voice: The Movie",
+                    "year": "2016",
+                    "runtime": "130 min",
+                    "genre": [
+                        "Animation",
+                        " Drama"
+                    ],
+                    "rating": "8.1",
+                    "imdb_id": "tt5323662"
+                },
+                {
+                    "title": "Cowboy Bebop: The Movie",
+                    "year": "2001",
+                    "runtime": "115 min",
+                    "genre": [
+                        "Animation",
+                        " Action",
+                        " Crime"
+                    ],
+                    "rating": "7.8",
+                    "imdb_id": "tt0275277"
+                },
+                {
+                    "title": "The Lego Movie",
+                    "year": "2014",
+                    "runtime": "100 min",
+                    "genre": [
+                        "Animation",
+                        " Action",
+                        " Adventure"
+                    ],
+                    "rating": "7.7",
+                    "imdb_id": "tt1490017"
+                },
+                {
+                    "title": "The Muppet Movie",
+                    "year": "1979",
+                    "runtime": "95 min",
+                    "genre": [
+                        "Adventure",
+                        " Comedy",
+                        " Family"
+                    ],
+                    "rating": "7.6",
+                    "imdb_id": "tt0079588"
+                },
+                {
+                    "title": "Shaun the Sheep Movie",
+                    "year": "2015",
+                    "runtime": "85 min",
+                    "genre": [
+                        "Animation",
+                        " Adventure",
+                        " Comedy"
+                    ],
+                    "rating": "7.3",
+                    "imdb_id": "tt2872750"
+                }
+            ],
+            "musics": [
+                {
+                    "artist": "Atif Aslam",
+                    "title": "Tera Hone Laga Hoon",
+                    "duration": "0:00",
+                    "album": "Best of Atif Aslam",
+                    "listeners": "55,267"
+                },
+                {
+                    "artist": "Atif Aslam",
+                    "title": "Tu Jaane Na",
+                    "duration": "0:00",
+                    "album": "Best of Atif Aslam",
+                    "listeners": "52,858"
+                },
+                {
+                    "artist": "Atif Aslam",
+                    "title": "Pehli Nazar Mein",
+                    "duration": "0:00",
+                    "album": "Best of Atif Aslam",
+                    "listeners": "47,486"
+                },
+                {
+                    "artist": "Shankar-Ehsaan-Loy",
+                    "title": "Kal Ho Naa Ho",
+                    "duration": "5:21",
+                    "album": "Kal Ho Naa Ho",
+                    "listeners": "44,909"
+                },
+                {
+                    "artist": "Vishal-Shekhar",
+                    "title": "Khuda Jaane",
+                    "duration": "0:00",
+                    "album": "N/A",
+                    "listeners": "44,829"
+                }
+            ]
+        },
+        "similar_users": []
+    },
+    "antony_ellison_4843": {
+        "name": " Antony Ellison",
+        "date_joined": "20-06-2025",
+        "favourite_movies": [
+            {
+                "title": "The Hangover",
+                "year": "2009",
+                "runtime": "100 min",
+                "genre": [
+                    "Comedy"
+                ],
+                "rating": "7.7",
+                "imdb_id": "tt1119646"
+            },
+            {
+                "title": "The Hangover Part II",
+                "year": "2011",
+                "runtime": "102 min",
+                "genre": [
+                    "Comedy"
+                ],
+                "rating": "6.5",
+                "imdb_id": "tt1411697"
+            },
+            {
+                "title": "The Hangover Part III",
+                "year": "2013",
+                "runtime": "100 min",
+                "genre": [
+                    "Comedy",
+                    " Crime"
+                ],
+                "rating": "5.8",
+                "imdb_id": "tt1951261"
+            },
+            {
+                "title": "Stuart Little",
+                "year": "1999",
+                "runtime": "84 min",
+                "genre": [
+                    "Adventure",
+                    " Comedy",
+                    " Family"
+                ],
+                "rating": "6.0",
+                "imdb_id": "tt0164912"
+            },
+            {
+                "title": "Stuart Little 2",
+                "year": "2002",
+                "runtime": "77 min",
+                "genre": [
+                    "Adventure",
+                    " Comedy",
+                    " Family"
+                ],
+                "rating": "5.5",
+                "imdb_id": "tt0243585"
+            },
+            {
+                "title": "Stuart Little 3: Call of the Wild",
+                "year": "2005",
+                "runtime": "72 min",
+                "genre": [
+                    "Animation",
+                    " Comedy",
+                    " Family",
+                    " Fantasy"
+                ],
+                "rating": "4.3",
+                "imdb_id": "tt0472602"
+            },
+            {
+                "title": "A Silent Voice: The Movie",
+                "year": "2016",
+                "runtime": "130 min",
+                "genre": [
+                    "Animation",
+                    " Drama"
+                ],
+                "rating": "8.1",
+                "imdb_id": "tt5323662"
+            },
+            {
+                "title": "Cowboy Bebop: The Movie",
+                "year": "2001",
+                "runtime": "115 min",
+                "genre": [
+                    "Animation",
+                    " Action",
+                    " Crime"
+                ],
+                "rating": "7.8",
+                "imdb_id": "tt0275277"
+            }
+        ],
+        "favourite_music": [
+            {
+                "artist": "The Yardbirds",
+                "title": "Heart Full of Soul",
+                "duration": "2:28",
+                "album": "Having A Rave Up",
+                "listeners": "353,743"
+            },
+            {
+                "artist": "The Yardbirds",
+                "title": "Heart Full of Soul - 2015 Remaster",
+                "duration": "0:0",
+                "album": "N/A",
+                "listeners": "60,351"
+            },
+            {
+                "artist": "The Music Tapes",
+                "title": "City of Lights",
+                "duration": "4:59",
+                "album": "The Orbiting Human Circus",
+                "listeners": "23,793"
+            },
+            {
+                "artist": "Pritam",
+                "title": "Tum Se Hi",
+                "duration": "5:21",
+                "album": "Jab We Met",
+                "listeners": "67,075"
+            },
+            {
+                "artist": "Pritam",
+                "title": "Kabira",
+                "duration": "5:11",
+                "album": "Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack)",
+                "listeners": "54,233"
+            },
+            {
+                "artist": "Pritam",
+                "title": "Subhanallah",
+                "duration": "4:9",
+                "album": "Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack)",
+                "listeners": "44,435"
+            },
+            {
+                "artist": "Cream",
+                "title": "Sunshine of Your Love",
+                "duration": "4:12",
+                "album": "Disraeli Gears",
+                "listeners": "1,402,850"
+            },
+            {
+                "artist": "Cream",
+                "title": "White Room",
+                "duration": "4:59",
+                "album": "The Cream of Clapton",
+                "listeners": "1,019,033"
+            },
+            {
+                "artist": "Cream",
+                "title": "Strange Brew",
+                "duration": "2:49",
+                "album": "Disraeli Gears",
+                "listeners": "618,447"
+            }
+        ],
+        "preffered_genres": [
+            "Action",
+            "Adventure",
+            "Family",
+            "Animation",
+            "Drama",
+            "Fantasy",
+            "Crime",
+            "Comedy"
+        ],
+        "recommends": {
+            "movies": [
+                {
+                    "title": "A Silent Voice: The Movie",
+                    "year": "2016",
+                    "runtime": "130 min",
+                    "genre": [
+                        "Animation",
+                        " Drama"
+                    ],
+                    "rating": "8.1",
+                    "imdb_id": "tt5323662"
+                },
+                {
+                    "title": "Cowboy Bebop: The Movie",
+                    "year": "2001",
+                    "runtime": "115 min",
+                    "genre": [
+                        "Animation",
+                        " Action",
+                        " Crime"
+                    ],
+                    "rating": "7.8",
+                    "imdb_id": "tt0275277"
+                }
+            ],
+            "musics": [
+                {
+                    "artist": "Cream",
+                    "title": "Sunshine of Your Love",
+                    "duration": "4:12",
+                    "album": "Disraeli Gears",
+                    "listeners": "1,402,850"
+                },
+                {
+                    "artist": "Cream",
+                    "title": "White Room",
+                    "duration": "4:59",
+                    "album": "The Cream of Clapton",
+                    "listeners": "1,019,033"
+                },
+                {
+                    "artist": "Cream",
+                    "title": "Strange Brew",
+                    "duration": "2:49",
+                    "album": "Disraeli Gears",
+                    "listeners": "618,447"
+                }
+            ]
+        },
+        "similar_users": []
+    }
+}
