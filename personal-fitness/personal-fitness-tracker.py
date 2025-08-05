@@ -144,7 +144,10 @@ class Cycling(Exercise):
 Estimated Calories Burned: {self.calories} calories"""
 
 
-def save_to_json(workouts, goals={}, filename="fitness-data.json"):
+def save_to_json(workouts, goals={"weekly_calories": 2500,
+                                  "weekly_workouts": 7,
+                                  "monthly_distance": 150
+                                  }, filename="fitness-data.json"):
     workouts.sort(key=lambda x: datetime.strptime(x['date'], '%d-%m-%Y'))
     data = {
         "workouts": workouts,

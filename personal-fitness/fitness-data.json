@@ -179,7 +179,41 @@
             "distance": 4,
             "pace": 30.0,
             "route": "Park"
+        },
+        {
+            "id": 2,
+            "type": "Swimming",
+            "date": "21-06-2025",
+            "duration": 120,
+            "calories": 1120.0,
+            "laps": 25,
+            "stroke_type": "Freestyle",
+            "pool_length": 30
+        },
+        {
+            "id": 1,
+            "type": "Running",
+            "date": "21-06-2025",
+            "duration": 60,
+            "calories": 420.0,
+            "distance": 4,
+            "pace": 15.0,
+            "route": "Park"
+        },
+        {
+            "id": 1,
+            "type": "Running",
+            "date": "21-06-2025",
+            "duration": 30,
+            "calories": 210.0,
+            "distance": 1,
+            "pace": 30.0,
+            "route": "Park"
         }
     ],
-    "goals": {}
+    "goals": {
+        "weekly_calories": 2500,
+        "weekly_workouts": 7,
+        "monthly_distance": 150
+    }
 }

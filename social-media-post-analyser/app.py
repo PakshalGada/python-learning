@@ -59,7 +59,7 @@ def top10(items):
         print(f"{rank}. {z}: {ranking[z]} ({percentage:.2f}%)")
 
 
-print("\n===SOCIAL MEDIA ANALYSIS REPORT===")
+print("\n=== SOCIAL MEDIA ANALYSIS REPORT ===")
 print("\n📊 Basic Statistics: ")
 print("Total Posts:", totalPosts)
 print("Total Words:", totalWords)

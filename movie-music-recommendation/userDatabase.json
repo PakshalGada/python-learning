@@ -1757,5 +1757,268 @@
             ]
         },
         "similar_users": []
+    },
+    "_3072": {
+        "name": "",
+        "date_joined": "21-06-2025",
+        "favourite_movies": [],
+        "favourite_music": [],
+        "preffered_genres": [],
+        "recommends": {
+            "movies": [],
+            "musics": []
+        },
+        "similar_users": []
+    },
+    "pakshal_gada_1462": {
+        "name": "Pakshal Gada",
+        "date_joined": "21-06-2025",
+        "favourite_movies": [
+            {
+                "title": "The Avengers",
+                "year": "2012",
+                "runtime": "143 min",
+                "genre": [
+                    "Action",
+                    " Sci-Fi"
+                ],
+                "rating": "8.0",
+                "imdb_id": "tt0848228"
+            },
+            {
+                "title": "Avengers: Endgame",
+                "year": "2019",
+                "runtime": "181 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Sci-Fi"
+                ],
+                "rating": "8.4",
+                "imdb_id": "tt4154796"
+            },
+            {
+                "title": "Avengers: Infinity War",
+                "year": "2018",
+                "runtime": "149 min",
+                "genre": [
+                    "Action",
+                    " Adventure",
+                    " Sci-Fi"
+                ],
+                "rating": "8.4",
+                "imdb_id": "tt4154756"
+            },
+            {
+                "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+                "year": "2020",
+                "runtime": "117 min",
+                "genre": [
+                    "Animation",
+                    " Action",
+                    " Adventure"
+                ],
+                "rating": "8.2",
+                "imdb_id": "tt11032374"
+            },
+            {
+                "title": "The Lego Movie",
+                "year": "2014",
+                "runtime": "100 min",
+                "genre": [
+                    "Animation",
+                    " Action",
+                    " Adventure"
+                ],
+                "rating": "7.7",
+                "imdb_id": "tt1490017"
+            },
+            {
+                "title": "The Simpsons Movie",
+                "year": "2007",
+                "runtime": "87 min",
+                "genre": [
+                    "Animation",
+                    " Adventure",
+                    " Comedy"
+                ],
+                "rating": "7.3",
+                "imdb_id": "tt0462538"
+            },
+            {
+                "title": "The Batman",
+                "year": "2022",
+                "runtime": "176 min",
+                "genre": [
+                    "Action",
+                    " Crime",
+                    " Drama"
+                ],
+                "rating": "7.8",
+                "imdb_id": "tt1877830"
+            }
+        ],
+        "favourite_music": [
+            {
+                "artist": "Jasleen Royal",
+                "title": "Heeriye (feat. Arijit Singh)",
+                "duration": "3:14",
+                "album": "Heeriye (feat. Arijit Singh)",
+                "listeners": "40,993"
+            },
+            {
+                "artist": "Arijit Singh",
+                "title": "Zaalima",
+                "duration": "4:59",
+                "album": "Collection",
+                "listeners": "42,668"
+            },
+            {
+                "artist": "Arijit Singh",
+                "title": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+                "duration": "4:44",
+                "album": "Celebrating World Music Day 2021 - Music Dil Se Dil Tak",
+                "listeners": "40,770"
+            },
+            {
+                "artist": "Atif Aslam",
+                "title": "Tera Hone Laga Hoon",
+                "duration": "0:00",
+                "album": "Best of Atif Aslam",
+                "listeners": "55,309"
+            },
+            {
+                "artist": "Atif Aslam",
+                "title": "Tu Jaane Na",
+                "duration": "0:00",
+                "album": "Best of Atif Aslam",
+                "listeners": "52,906"
+            },
+            {
+                "artist": "Atif Aslam",
+                "title": "Pehli Nazar Mein",
+                "duration": "0:00",
+                "album": "Best of Atif Aslam",
+                "listeners": "47,514"
+            }
+        ],
+        "preffered_genres": [],
+        "recommends": {
+            "movies": [
+                {
+                    "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+                    "year": "2020",
+                    "runtime": "117 min",
+                    "genre": [
+                        "Animation",
+                        " Action",
+                        " Adventure"
+                    ],
+                    "rating": "8.2",
+                    "imdb_id": "tt11032374"
+                },
+                {
+                    "title": "The Lego Movie",
+                    "year": "2014",
+                    "runtime": "100 min",
+                    "genre": [
+                        "Animation",
+                        " Action",
+                        " Adventure"
+                    ],
+                    "rating": "7.7",
+                    "imdb_id": "tt1490017"
+                },
+                {
+                    "title": "The Simpsons Movie",
+                    "year": "2007",
+                    "runtime": "87 min",
+                    "genre": [
+                        "Animation",
+                        " Adventure",
+                        " Comedy"
+                    ],
+                    "rating": "7.3",
+                    "imdb_id": "tt0462538"
+                }
+            ],
+            "musics": [
+                {
+                    "artist": "Atif Aslam",
+                    "title": "Tera Hone Laga Hoon",
+                    "duration": "0:00",
+                    "album": "Best of Atif Aslam",
+                    "listeners": "55,309"
+                },
+                {
+                    "artist": "Atif Aslam",
+                    "title": "Tu Jaane Na",
+                    "duration": "0:00",
+                    "album": "Best of Atif Aslam",
+                    "listeners": "52,906"
+                },
+                {
+                    "artist": "Atif Aslam",
+                    "title": "Pehli Nazar Mein",
+                    "duration": "0:00",
+                    "album": "Best of Atif Aslam",
+                    "listeners": "47,514"
+                }
+            ]
+        },
+        "similar_users": [
+            {
+                "profile": "1",
+                "similarity": 0.0,
+                "common_genres": [],
+                "unique_genres": [
+                    "Sci-Fi",
+                    "Biography",
+                    "Drama",
+                    "Family",
+                    "Thriller",
+                    "Music",
+                    "Crime",
+                    "Comedy",
+                    "Romance",
+                    "Action",
+                    "Short",
+                    "Animation",
+                    "Adventure"
+                ]
+            },
+            {
+                "profile": "john_doe_7874",
+                "similarity": 0.0,
+                "common_genres": [],
+                "unique_genres": [
+                    "Sci-Fi",
+                    "Drama",
+                    "Family",
+                    "Music",
+                    "Comedy",
+                    "Romance",
+                    "Action",
+                    "Animation",
+                    "Adventure"
+                ]
+            },
+            {
+                "profile": "bob_smith_3581",
+                "similarity": 0.0,
+                "common_genres": [],
+                "unique_genres": [
+                    "Sci-Fi",
+                    "Drama",
+                    "Horror",
+                    "Thriller",
+                    "Crime",
+                    "Action",
+                    "Animation",
+                    "Adventure",
+                    "Mystery"
+                ]
+            }
+        ]
     }
 }
