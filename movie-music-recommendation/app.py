@@ -39,7 +39,7 @@ def moviesearch(profile):
     favourite_movies = userDict[profile]['favourite_movies']
     addedMovies = []
     print("\n=== MOVIE SEARCH ===")
-    apiKey = '58f78525'
+    apiKey = 'apiKey'
     title = input("Enter movie title: ")
     url = f"http://www.omdbapi.com/?s={title}&apikey={apiKey}&type=movie"
     response = requests.get(url)
@@ -94,7 +94,7 @@ def musicsearch(profile):
     favourite_tracks = userDict[profile]['favourite_music']
     addedMusics = []
     print("\n=== MUSIC SEARCH ===")
-    apiKey = "b3ef61aacfc1d02a1ed7770af6c8e9a5"
+    apiKey"apiKey"
     query = input("Enter artist or song: ")
     url = f"http://ws.audioscrobbler.com/2.0/?method=track.search&track={query}&api_key={apiKey}&format=json&limit=3"
     response = requests.get(url)
