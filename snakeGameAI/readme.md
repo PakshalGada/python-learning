@@ -24,6 +24,6 @@ python trainSnake.py
 - Pygame
 - NumPy
 
-## About
+
 
 
