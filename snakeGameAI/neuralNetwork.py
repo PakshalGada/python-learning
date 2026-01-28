@@ -100,7 +100,7 @@ class DQNagent:
             'targetNetworkStateDict': self.target_network.state_dict(),
             'optimizerStateDict': self.optimizer.state_dict(),  
             'epsilon': self.epsilon,
-            'stepCount': self.stepCountEN25249473EN25249473
+            'stepCount': self.stepCount
         }, filepath)
         print(f"Model saved to {filepath}")
         
